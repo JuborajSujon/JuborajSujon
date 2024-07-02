@@ -1,11 +1,11 @@
 
 ![Header](./header1.png)
 
-## :computer: About Me :
+## 🙍 About Me :
 I'm Md Sujon Miah, a self-taught programmer with a passion for learning new things. I'm particularly interested in building web applications and I enjoy the challenge of turning ideas into functional code. I'm currently working on improving my skills in JavaScript and learning more about Next.js.
 
-## :hammer_and_wrench: Tools and Technologies :
-<table align="left">
+## 🛠️ Tools and Technologies :
+<table align="center">
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="javascript" /><br>JavaScript
@@ -47,3 +47,16 @@ I'm Md Sujon Miah, a self-taught programmer with a passion for learning new thin
    </td>
   </tr>
 </table>
+
+
+## 🔥 Github stats :
+ [![Sujon Miah's current streak](https://streak-stats.demolab.com/?user=JuborajSujon&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+ 
+ [![Sujon's github stats](https://bad-apple-github-readme.vercel.app/api?username=JuborajSujon&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=JuborajSujon&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=false&descAlign=100&descAlignY=100"/>
+</p>
